@@ -1,4 +1,7 @@
 # breakdiet
 Dispense a lista de substituições.
 
-$ usage
+Usage:
+'''
+breakdiet.py <nutrient> <kcal>
+'''
