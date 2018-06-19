@@ -2,6 +2,4 @@
 Dispense a lista de substituições.
 
 Usage:
-'''
-breakdiet.py <nutrient> <kcal>
-'''
+'breakdiet.py <nutrient> <kcal>'
